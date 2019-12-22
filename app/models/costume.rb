@@ -3,4 +3,4 @@
 
 class Costume
 
-end 
+end
